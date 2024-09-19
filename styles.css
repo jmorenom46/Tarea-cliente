@@ -1,0 +1,20 @@
+.titulo1{
+    font-size: 20px;
+}
+table{
+    width: 100vh;
+    border: 1px solid black;
+    padding-left: 1vh;
+    padding-right: 1vh;
+}
+tr{
+}
+.contenedor{
+    display:table;
+}
+.primerElemento{
+
+}
+.segundoElemento{
+
+}
