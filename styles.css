@@ -1,0 +1,20 @@
+.central{
+    margin: 0% auto;
+}
+table tr{
+    border-bottom: 1px solid black;
+}
+
+.titulo1{
+    font-weight: bold;
+}
+table{
+    width: 100vh;
+    border: 1px solid black;
+    padding-left: 1vh;
+    padding-right: 1vh;
+}
+
+.contenedor{
+    display:table;
+}
